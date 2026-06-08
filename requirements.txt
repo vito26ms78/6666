@@ -1,0 +1,13 @@
+dxcam
+easyocr
+opencv-python
+numpy
+pillow
+torch
+torchvision
+PyQt6
+deep-translator
+mss
+pywin32
+psutil
+pyinstaller
